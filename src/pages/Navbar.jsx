@@ -27,7 +27,7 @@ const Navbar = () => {
             <IoPersonOutline className="icons-persone" />
             <select className="select">
               <option>ENG</option>
-              <option>TEG</option>
+              <option>TEL</option>
               <option>HIN</option>
             </select>
           </div>
